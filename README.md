@@ -2,6 +2,8 @@
 ==============
 Tiny windows forms application to download videos from youtube.
 
+![screenshot](imgs/screenshot.png)
+
 features
 --------
 - download mp3, mp4
